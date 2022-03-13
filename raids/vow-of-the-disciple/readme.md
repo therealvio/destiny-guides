@@ -1,19 +1,21 @@
 # Vow of the Disicple
 
-**Note:** To view images in their original size, right-click and open in a new tab, or save the image to view it directly.
+**Note:** To view images in their original size, right-click and open the image in a new tab, or save the image to view it directly.
 
-These materials supplementary to raid guides in an effort to further inform players. You should take the time to either wathc guides on the raid, or seek the help of a raid sherpa.
+These materials supplementary to raid guides in an effort to further inform players. You should take the time to either watch guides on the raid, or seek the help of a raid sherpa.
 
 ## 00 - General
 
 ### Video Guides
 
 **Fallout Plays**
-https://www.youtube.com/watch?v=fJ3k4_yUIrc
+
+- https://www.youtube.com/watch?v=fJ3k4_yUIrc
 
 **Datto**
-Pt 1. - https://www.youtube.com/watch?v=jdpa4PlJ81A
-Pt 2. - https://www.youtube.com/watch?v=K9VYsnrnHvQ
+
+- Pt 1. - https://www.youtube.com/watch?v=jdpa4PlJ81A
+- Pt 2. - https://www.youtube.com/watch?v=K9VYsnrnHvQ
 
 ### Symbols & Callouts
 
@@ -31,6 +33,12 @@ Below is the loot table for the raid.
 Below is a brief guide on how to get an extra reward after completing the boss. It is a guarnteed deepsight resonance version.
 
 ![extra-chest-guide](./images/00-base/02-extra-boss-chest.png)
+
+### Interacting with the Prophecy Room (Wish Wall)
+
+**Reddit Thread**
+
+- https://www.reddit.com/r/raidsecrets/comments/t7is45/the_wish_wall_in_the_new_raid/
 
 ## 01 - Entrance
 
