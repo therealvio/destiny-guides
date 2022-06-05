@@ -21,7 +21,7 @@ These materials supplementary to raid guides in an effort to further inform play
 
 Below is the standard callouts for the Vow of the Disciple symbols.
 
-![symbols](./images/00-base/00-symbols.JPG)
+![symbols](./images/00-base/00-symbols.png)
 
 ### Loot Table
 
